@@ -1,5 +1,5 @@
 {
-  "name": "X-BYTE",
+  "name": "Lutcho-MD",
   "description": "X-BYTE buttoned version of Byte.",
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/XByte-logo.png",
   "keywords": ["TalkDrove", "bot", "whatsapp bot", "multi device", "X-BYTE"],
@@ -9,12 +9,12 @@
     "SESSION_ID": {
             "description": "Paste your session ID here (Make sure starts with Byte;;;) or leave empty if deploying through Creds.json",
             "required": true,
-            "value": ""
+            "value": "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK0szY1h4M29TWEhwOE1COUp6RUFXYUcrWUh4VjVGYXkxcUErMUhsU0prdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicjBlUmdFaElqcGVkYTV3WjB2bVJiaXk4YllCRDBleTZBSUZnSVZ5aTlRND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ5SmdVVlJXU1lYUnhkMlVEM0hVMlNBZDY2akRTM1ZTZzlMZUVLeEU4K0dNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVMTd4K1R3Uk54WTlYUzR4eTVQRUF2WFVWRUNwRnc0UEhQUXNpYlN1QTBrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFQaVNzSEZ1d2p5Ni9JVU9sSXpVYXdaejczS0JlejVXL2Y4SjdCTVBDM2M9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikd3blhOT1ZZWW55L1FLcnZDZWtyM3h4MWdoVlpHYlJlaUJYZUUxaFJzVnM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkRqWThIR0tQUndCUXpXeDBvTVM2ZHJZVENTQUt3cnM2SkRHbnJLd1ZsMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicjVvM2cyb1pvWlo5RjVobG1INVZNNXRxem9xNVFSWGdFMEdoZlVIRGp5ST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkM4cmc2TGwxQ01xeEhUVjdGbGFNTXlhVElNZ0xWSDlYTmFmMkFRZGhkOC9WMm5BRjdFY2JPZDdsZlJJQWtPdFFNMFUvcnArVkJXZkNmaEw0MGV1K0J3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTMsImFkdlNlY3JldEtleSI6IndmN05zUDhGVWlrVElnVWlqK2JzNDF6WCtLdWdSUGRxdkYzY3NGeHRlUTQ9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InktaGVSY0xjUzlLbVREa2lOR195dXciLCJwaG9uZUlkIjoiZGFkNWQ1OWEtNzcyYS00ODQ2LTk3OGQtMWQ4ZmY2NTI5OTllIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ii9ib0g1a2ptUzZzbXpvQmlqV3A1azdtdGNoQT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJiVW1MdkxZN1N2R2VJMnJEd0xTOVc4MFF5ZXc9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiVjNFOVBaWDkiLCJtZSI6eyJpZCI6IjI0MjA1NTYxNzU2MDo0OEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTEQ3ODhJSEVMR1BsTFVHR0RNZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoidmpVckZMSEZoOWdNZ1NsREJkRmxxZnd4cGRTbkwrdndFNGtsREdiczczTT0iLCJhY2NvdW50U2lnbmF0dXJlIjoib2pyeXo3aDFGQ1lLS3VVczN6MWF1L0h3Z1RwNGFJN2pqTHFIaE9TUy83T1R4TXRxZ2R0ZFRuSjgrTUhCRitlZkxhdllQV29NSExQaiswQk10bmJqQXc9PSIsImRldmljZVNpZ25hdHVyZSI6IjRBa3ZNRFFNUGlSc0NXbkVXR2lqbFJsUE1zNDV2b2FhWW1haWtQT3IybVV3cHRYQm92N3UxNTFXUndtRDQ0NlhTRzJlQXB0ZzM4SFBwZHNWMjRKRkNnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjQyMDU1NjE3NTYwOjQ4QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmI0MUt4U3h4WWZZRElFcFF3WFJaYW44TWFYVXB5L3I4Qk9KSlF4bTdPOXoifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjIwOTE0NTQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTjlYIn0="
         },
     "COMMAND_TYPE": {
             "description": "Put here (button or nonbutton) to change bot command mode",
             "required": true,
-            "value": "button"
+            "value": "!"
         },
         "ANTI_DELETE": {
             "description": "Put true to enable otherwise put false",
@@ -54,7 +54,7 @@
     "OWNER_NUMBER": {
             "description": "Put here your number without +",
             "required": true,
-            "value": "92307xxxxxxx"
+            "value": "242055617560"
         }
     },
     "buildpacks": [
